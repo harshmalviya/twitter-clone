@@ -21,7 +21,7 @@ function Feed({ tweets: tweetsProp }: Props) {
     });
   };
   return (
-    <div className="col-span-7 lg:col-span-5 max-h-screen overflow-x-scroll scrollbar-hide border-x">
+    <div className="col-span-8 md:col-span-7 lg:col-span-5 max-h-screen overflow-x-scroll scrollbar-hide border-x">
       <div className="flex justify-between items-center">
         <h1 className="p-5 pb-0 font-bold text-xl">Home</h1>
         <RefreshIcon
