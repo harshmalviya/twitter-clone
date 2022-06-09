@@ -1,1 +1,1 @@
-##### Twitter clone with Sanity CMS and React JS!
+# Twitter clone with Sanity CMS and React JS!
